@@ -1,4 +1,4 @@
-## This is the GitHib page for the Twitter-Germany project. For more information, please visit: http://chrisfi.com/twittergermany
+## This is the GitHub page for the Twitter-Germany project. For more information, please visit: http://chrisfi.com/twittergermany
 
 <!--
 
